@@ -214,7 +214,7 @@ footer span {
 	.section-two,
 	.section-three {
 		width: 30%;
-		height: 250px;
+		height: 275px;
 		align-content: start;
 		padding: 0 8px;
 	}
@@ -244,5 +244,11 @@ footer span {
 	
 	.main-title h2 {
 		justify-content: left;
+	}
+
+	.section-one,
+	.section-two,
+	.section-three {
+		height: 200px;
 	}
 }
